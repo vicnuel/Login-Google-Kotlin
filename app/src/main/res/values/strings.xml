@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="text_or">ou</string>
+    <string name="entrar_com_google">Entrar com google</string>
+</resources>
