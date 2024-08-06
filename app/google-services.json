@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952814763031",
+    "project_id": "login-2275d",
+    "storage_bucket": "login-2275d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952814763031:android:4298a469fa0deb94dc7052",
+        "android_client_info": {
+          "package_name": "com.vicnuel.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWuMux2rNNjcr-cdBMSjJHRtgS5TCAa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
