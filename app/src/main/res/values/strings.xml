@@ -5,4 +5,5 @@
     <string name="login">Entrar</string>
     <string name="text_or">ou</string>
     <string name="entrar_com_google">Entrar com google</string>
+    <string name="sair">Sair</string>
 </resources>
